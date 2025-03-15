@@ -9,3 +9,13 @@
 - [ ] Transformar dados de vendasem informações relevantes para a fabricante
 - [ ] Quais são os produtos mais populares em cada país
 - [ ] Como otimizar o processo de transporte e logística até o momento da venda
+
+# Tecnologias utilizada
+
+## IA
+
+- Microsoft copilot
+
+## Base de dados
+
+- Excel / csv
